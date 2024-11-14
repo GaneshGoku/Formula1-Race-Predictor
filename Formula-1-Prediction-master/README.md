@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 #### Example
 
-![Demo](images/demo.mp4)
+![Demo](images/vedio.gif)
 
 
 
