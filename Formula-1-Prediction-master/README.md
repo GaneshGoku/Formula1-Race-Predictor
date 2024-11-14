@@ -44,11 +44,11 @@ pip install -r requirements.txt
 ## Demo<a name  = "Demo"></a>
 #### Predictor
 
-![site](images/site.jpg)
+![site](images/Front.jpg)
 
 #### Example
 
-![Demo](images/demo.gif)
+![Demo](images/demo.mp4)
 
 
 
